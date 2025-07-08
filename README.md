@@ -1,13 +1,27 @@
 # SalesDashboard
-Coca-Cola Corporate Retailers Dashboard
+Coca-Cola Retail Sales Dashboard
 
-I have created an interactive Power BI dashboard built from scratch representing a fictional data of the Coca-Cola Corporate Retailers. This project demonstrates how to:
 
-- Define and visualise key performance indicators (KPIs), bring critical metrics to life with scorecards and trend visuals.
+An interactive Power BI dashboard designed to analyse and visualise retail performance across Coca-Cola products, including Coca-Cola, Fanta, Sprite, Powerade, Dasani Water, and Diet Coke using fictional data.
 
-- Use slicers for dynamic filtering, allowing users to explore data by categories such as date ranges, regions, or product segments.
 
-- Incorporate data visuals, including line charts, bar charts, and geographic maps, for powerful data storytelling.
 
-- Design effective, story-driven layouts, combining visuals and interactivity to support actionable business insights.
+Key Features:
 
+Top-Level Metrics: Instantly view total revenue, units sold, and average price per unit.
+
+Interactive Product Filter: The top bar allows users to toggle between drink categories (e.g., Coca-Cola, Fanta, Sprite), dynamically updating all visuals and metrics across the dashboard.
+
+Monthly Revenue Breakdown: Visualise sales performance over the year with a clear month-by-month revenue chart.
+
+Geographical Insights: A map visual provides a state-by-state breakdown of total revenue, helping identify high-performing regions.
+
+
+
+Ideal For:  
+
+Retail Analysts exploring brand-specific performance.
+
+Marketing Teams identifying trends across product categories.
+
+Sales Managers monitoring distribution and revenue at a glance.
